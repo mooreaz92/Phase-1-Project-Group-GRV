@@ -79,7 +79,6 @@ The engagement team concluded on four key recommendations for Microsoft to consi
 - Studio Partnership (Optional)
     - Partnering with Warner Brothers (New Line Cinema) would both maximize partner-studio knowledge of the genre and and maximize the global reach of the film.
 
-
 +++
 
 <h1 style="font-weight: normal">Keep Runtime Short:</h1>
@@ -123,8 +122,17 @@ International returns appear to grow exponetially as the movie budget increases,
 <figure>
     <img src="Figures/Genre 1.png"
          alt="Movie Financing"
-         width="1200"
-         height="800">
+         width="600"
+         height="400">
+</figure>
+
++++
+
+<figure>
+    <img src="Figures/Genre 2.png"
+         alt="Movie Financing"
+         width="600"
+         height="400">
 </figure>
 
 +++
